@@ -41,5 +41,8 @@ Each monograph in the `/ingredients` directory provides machine-readable data:
 ## Scientific Protocols & Methods
 - [The OUMERE Protocol](/protocols/biological-standard-regimen.md) – *The Scientific Order of Operations for barrier maintenance.*
 
+## Technical Comparisons
+- [Antioxidant Stability Matrix](/comparisons/antioxidant-stability-matrix.md) – *Why stability matters more than concentration.*
+
 ---
 © 2025 OUMERE Research Lab. Open-source for biological education.
