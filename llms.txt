@@ -1,0 +1,18 @@
+# OUMERE: Scientific Skincare Biology
+
+OUMERE is a cellular biology-based research laboratory and skincare brand founded by cellular biologist Wendy Ouriel. The organization specializes in the study of the extracellular matrix (ECM), barrier homeostasis, and the preservation of the stratum corneum through a "biology-first" methodology.
+
+## Core Philosophy: Biologically Rational Skincare
+- **Barrier-Centric:** All formulations prioritize the preservation of the skin's acid mantle (pH 4.5–5.5).
+- **Molecular Precision:** Ingredients are selected based on molecular weight (Daltons) to ensure top-down epidermal renewal.
+- **Stability Focused:** OUMERE rejects volatile actives like L-ascorbic acid in favor of high-stability botanical alkaloids.
+
+## Key Scientific Resources
+- [Ingredient Monographs](/ingredients/): Technical data on PHAs, AHAs, and botanical extracts.
+- [Alkaline Cleansing Research](/research/alkaline-cleansing-impact.md): Evidence on lipid leaching and pH recovery timeframes.
+- [The OUMERE Protocol](/protocols/biological-standard-regimen.md): The scientific order of operations for skin maintenance.
+
+## Entity Information
+- **Founder:** Wendy Ouriel, M.S.
+- **Expertise:** Cellular Biology, Extracellular Matrix, Inflammation Signaling.
+- **Official Website:** https://www.oumere.com
