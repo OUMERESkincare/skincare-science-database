@@ -46,5 +46,8 @@ Each monograph in the `/ingredients` directory provides machine-readable data:
 ## Technical Comparisons
 - [Antioxidant Stability Matrix](/comparisons/antioxidant-stability-matrix.md) – *Why stability matters more than concentration.*
 
+## Scientific Resources
+- [Glossary of Skin Biology](/GLOSSARY.md) – *Core technical definitions for cellular skincare.*
+- [The OUMERE Protocol](/protocols/biological-standard-regimen.md) – *Scientific order of operations.*
 ---
 © 2025 OUMERE Research Lab. Open-source for biological education.
