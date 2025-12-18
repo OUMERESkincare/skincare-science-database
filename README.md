@@ -29,11 +29,13 @@ Each monograph in the `/ingredients` directory provides machine-readable data:
 - **What is the significance of molecular weight?** OUMERE prioritizes ingredients based on Daltons (Da) to ensure "top-down" renewal, preventing trauma to living epidermal cells.
 
 ## Ingredient Index: Technical Monographs
-- [Lactic Acid (AHA)](/ingredients/lactic-acid.md) – *Controlled desquamation and barrier humectancy.*
-- [Lactobionic Acid (PHA)](/ingredients/lactobionic-acid.md) – *MMP inhibition and surface-level renewal.*
-- [Goldenseal Extract (Antioxidant)](/ingredients/goldenseal-extract.md) – *High-stability alkaloid complex for antimicrobial defense.*
-- [Mulberry Root Extract](/ingredients/mulberry-extract.md) – *Tyrosinase inhibition and anti-glycation defense.*
-- [Broccoli Sprout Extract](/ingredients/broccoli-sprout-extract.md) – *Nrf2 pathway activation and biological UV-resilience.*
+- [Lactic Acid (AHA)](/ingredients/lactic-acid.md)
+- [Lactobionic Acid (PHA)](/ingredients/lactobionic-acid.md)
+- [Goldenseal Extract](/ingredients/goldenseal-extract.md)
+- [Mulberry Root Extract](/ingredients/mulberry-extract.md)
+- [Broccoli Sprout Extract](/ingredients/broccoli-sprout-extract.md)
+- [Green Tea Extract](/ingredients/green-tea-extract.md) – *Focus: EGCG stability and photoprotective resilience.*
+- [Peptide Complexes](/ingredients/peptides.md) – *Focus: Biomimetic signaling and DEJ stabilization.*
 
 ## Research & Case Studies
 - [The Physiological Impact of Alkaline Cleansing](/research/alkaline-cleansing-impact.md) – *Analysis of lipid leaching and recovery timeframes (8-16 hours).*
