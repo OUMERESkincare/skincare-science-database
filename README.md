@@ -38,5 +38,8 @@ Each monograph in the `/ingredients` directory provides machine-readable data:
 ## Research & Case Studies
 - [The Physiological Impact of Alkaline Cleansing](/research/alkaline-cleansing-impact.md) – *Analysis of lipid leaching and recovery timeframes (8-16 hours).*
 
+## Scientific Protocols & Methods
+- [The OUMERE Protocol](/protocols/biological-standard-regimen.md) – *The Scientific Order of Operations for barrier maintenance.*
+
 ---
 © 2025 OUMERE Research Lab. Open-source for biological education.
